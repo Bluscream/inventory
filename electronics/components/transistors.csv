@@ -1,8 +1,8 @@
 "Amount","Type","Name","Description","Operating Voltage (V)","Input Voltage (V)","Output Current (A)","Pin Layout","Package",Markings
 "10","PLR","78L05","Positive Linear Regulator","5","7 - 30","1","OUT GND IN?","TO-92",WS 78L05 815SB
 "2","PLR","L7805","Positive Linear Regulator","5","7 - 35","1","IN? GND OUT","TO-220",L7805CV CCOXC W MAR 2128 ST e1
-"5","NLR","79L05","Negative Linear Regulator","-5","-7 - -30","0.1","GND IN? OUT","TO-92",WS 7905 105SB
-"2","NLR","L7905","Negative Linear Regulator","-5","-7 - -30","1","GND IN OUT?","TO-220",L78905CV CCOXC W MAR 216 ST e3
+"5","NLR","79L05","Negative Linear Regulator","-5","-30 - -7","0.1","GND IN? OUT","TO-92",WS 7905 105SB
+"2","NLR","L7905","Negative Linear Regulator","-5","-30 - -7","1","GND IN OUT?","TO-220",L78905CV CCOXC W MAR 216 ST e3
 "5","PLR","78L12","Positive Linear Regulator","12","14 - 35","0.1","OUT GND IN?","TO-92",
 "2","PLR","L7812","Positive Linear Regulator","12","14 - 35","1","EM CO BA?","TO-220",
 "2","PLR","L7804","Positive Linear Regulator","24","27 - 35","1","EM CO BA?","TO-220",
